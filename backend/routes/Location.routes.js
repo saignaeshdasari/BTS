@@ -8,7 +8,7 @@ import {
 
 import { protect } from "../middleware/authMiddleware.js";
 
-import { deviceApiKey } from "../middleware/deviceMiddleware.js";
+import { deviceApiKey } from "../middleware/devicemiddleware.js";
 
 const router = express.Router();
 
